@@ -4,5 +4,6 @@
 	@include fontdef($OpenSansPath, $OpenSansVersion, "SemiBoldItalic");
 	font-weight: 600;
 	font-style: italic;
+	font-display: block;
 }
 /* END SemiBold Italic */

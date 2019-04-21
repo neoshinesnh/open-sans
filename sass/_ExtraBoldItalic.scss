@@ -4,5 +4,6 @@
 	@include fontdef($OpenSansPath, $OpenSansVersion, "ExtraBoldItalic");
 	font-weight: 800;
 	font-style: italic;
+	font-display: block;
 }
 /* END Extrabold Italic */

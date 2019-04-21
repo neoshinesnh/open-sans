@@ -4,5 +4,6 @@
 	@include fontdef($OpenSansPath, $OpenSansVersion, "BoldItalic");
 	font-weight: bold;
 	font-style: italic;
+	font-display: block;
 }
 /* END Bold Italic */
