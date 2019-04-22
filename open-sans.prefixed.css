@@ -24,7 +24,7 @@
   src: url("./fonts/Regular/OpenSans-Regular.woff2?v=1.101") format("woff2"), url("./fonts/Regular/OpenSans-Regular.woff?v=1.101") format("woff");
   font-weight: normal;
   font-style: normal;
-  font-display: block;
+  font-display: swap;
 }
 
 /* END Regular */
